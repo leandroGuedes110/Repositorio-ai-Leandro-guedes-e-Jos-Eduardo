@@ -1,0 +1,49 @@
+5-
+No monolítico fica tudo junto no mesmo sistema, como frontend, backend e banco. Já no modelo separado, o frontend e o backend ficam separados e se comunicam por API.
+Exemplo:
+Monolítico: tudo feito junto, tipo PHP com Laravel.
+Separado: frontend em React e backend em Node.js.
+
+
+6-
+O DOM é uma “cópia” do HTML que o navegador cria pra conseguir mexer na página.
+O HTML é o código que se escreve, e o DOM é o que o navegador usa pra mostrar e alterar as coisas com JavaScript.
+
+
+7-O Box Model é como uma caixa de cada elemento na tela:
+Content: o conteúdo (texto, imagem).
+Padding: espaço dentro da caixa.
+Border: a borda da caixa.
+Margin: espaço fora da caixa.
+
+Diferença:
+
+Padding é espaço por dentro.
+Margin é espaço por fora.
+
+
+8-Bootstrap é tipo um pacote de estilos prontos pra facilitar a vida.
+
+Exemplos:
+
+btn btn-primary: botão já estilizado.
+card: um bloquinho organizado pra colocar conteúdo
+
+
+9-Diferença entre seletores
+Elemento: pega todas as tags iguais (ex: p).
+Classe: pega quem tiver aquela classe (ex: .box).
+ID: pega só um elemento específico (ex: #titulo).
+
+Prioridade: ID é mais forte, depois classe, depois elemento
+
+
+10-HTML semântico vs div
+HTML semântico usa tags que já dizem o que são, tipo header, main, footer.
+Usar só div não explica nada.
+
+Vantagens:
+
+Ajuda no Google (SEO).
+Ajuda acessibilidade.
+Deixa o código mais organizado e profissional.
