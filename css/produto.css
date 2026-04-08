@@ -1,0 +1,11 @@
+.produto-card {
+  background-color: #fff;   
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 12px;
+}
+
+.produto-card h3 {
+  color: #003366;
+}
